@@ -63,7 +63,7 @@ The development process provided valuable insights into:
 ### Installation
 
 ```bash
-git clone git@github.com:RutamBhagat/swipe-assignment.git
+git clone 
 
 cd swipe-assignment
 
